@@ -6,27 +6,18 @@ Tecnologias utilizadas
 
 Python 3
 Biblioteca estandar de Python (dataclasses, abc, typing, sys, os)
-
 Interfaz por consola (CLI)
-
 Programación orientada a objetos
-
-Lógica proposicional aplicada a ciberseguridad básica
+Logica proposicional aplicada a ciberseguridad básica
 
 Funcionalidades
 
 Validacion de contraseñas segun reglas logicas
-
 Reglas para letras, numeros, mayusculas, minusculas y simbolos
-
 Restricciones de longitud minima y maxima
-
 Inclusion o exclusion de texto especifico
-
 Visualizacion del resultado mediante arbol de evaluación lógica
-
 Constructor rapido de reglas desde consola
-
 
 Descripcion del proyecto
 
