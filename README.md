@@ -1,0 +1,1 @@
+# Validador-de-contrase-as-basado-en-l-gica-proposicional
