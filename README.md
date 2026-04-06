@@ -16,3 +16,6 @@ Restricciones de longitud minima y maxima
 Inclusion o exclusion de texto especifico
 Visualizacion del resultado mediante arbol de evaluación lógica
 Constructor rapido de reglas desde consola
+
+Descripcion academica
+Este proyecto busca demostrar cómo los conceptos de logica proposicional y matematica discreta pueden aplicarse en un problema real de ciberseguridad: la validacion de contraseñas. De esta manera, se relaciona la teoría vista en clase con una implementacion practica en Python.
